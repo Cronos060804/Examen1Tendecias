@@ -1,8 +1,9 @@
 # Examen1Tendecias
-  INTEGRANTES:
+
+   # INTEGRANTES:
   
-  # Luis Guaman
+    # Luis Guaman
 
-  # Carlos Diaz
+    # Carlos Diaz
 
-  # Steven Jimenez
+    # Steven Jimenez
